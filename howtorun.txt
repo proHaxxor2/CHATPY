@@ -1,0 +1,9 @@
+ ===========================================
+-Welcome To The Instruction Guide For PYCHAT-
+ ===========================================
+
+1) Run It As Administrator for better experience 
+2) No Need to disable antivirus
+3) run server.exe and put the info it asks you to put
+4) give the client.exe to the person who you want to chat with (multi people are supported)
+5) Enjoy!
